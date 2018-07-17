@@ -26,3 +26,23 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.tttcell {
+  height:200px;
+  width:50px;
+}
+
+.used {
+  background-color: #1aa62a;
+}
+
+.tttrow {
+  padding: 0 !important;
+  background-color: whitesmoke;
+}
+
+
+body{
+  background: rgba(160, 147, 201, 0.79) !important;
+
+}
