@@ -22,27 +22,25 @@
   font-size: large;
 }
 
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+
+.controlPanelWrapper {
+  background-color: yellow;
+  padding: 10%;
 }
 
-.tttcell {
-  height:200px;
-  width:50px;
+.controlPanel {
+  background-color: red;
 }
 
-.used {
-  background-color: #1aa62a;
+.visAreaWrapper {
+  background-color: green;
+  padding: 10%;
 }
-
-.tttrow {
-  padding: 0 !important;
-  background-color: whitesmoke;
+.visArea {
+  background-color: blue;
 }
-
 
 body{
-  background: rgba(160, 147, 201, 0.79) !important;
-
+  background: rgba(160, 147, 201, 0.79);
+  width: 100%;
 }

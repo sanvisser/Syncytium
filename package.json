@@ -1,15 +1,15 @@
 {
-  "name": "theoverreact",
+  "name": "Syncytium",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "annyang": "^2.6.1",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
-    "react-scripts": "1.1.4",
+    "react-scripts": "^1.1.5",
+    "react-vis": "^1.11.1",
+    "react-vis-network": "^1.0.0",
     "semantic-ui-css": "^2.3.3",
-    "semantic-ui-react": "^0.82.0",
-    "string-similarity": "^1.2.0"
+    "semantic-ui-react": "^0.82.0"
   },
   "scripts": {
     "start": "react-scripts start",
