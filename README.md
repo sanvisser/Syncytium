@@ -1,2 +1,2 @@
-# TheOverReact
-Default react template for devdays / hackathons
+# Syncytium
+Frontend using Xillio API to generate a network graph of connected repositories.
